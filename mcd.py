@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-data = pd.read_csv("C:/users/siddhika/Downloads/menu.csv")
+data = pd.read_csv("menu.csv")
 data.head(2)
 
 data.shape
